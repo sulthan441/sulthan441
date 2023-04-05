@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full-stack web development (MERN)**
 
-- 👨‍💻 All of my projects are available at [https://mohammedsulthan-portfolio.netlify.app/](https://mohammedsulthan-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohammedsulthan-portfolio.netlify.app/](https://mohammed-sulthan-portfolio.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
