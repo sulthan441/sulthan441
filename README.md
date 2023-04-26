@@ -22,7 +22,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sulthan441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sulthan441" height="30" width="40" /></a>
 <a href="https://twitter.com/mohd_sulthan441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohd_sulthan441" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammed-sulthan-605121229/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sulthan-605121229" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mohammed%20sulthan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mohammed%20sulthan" height="30" width="40" /></a>
